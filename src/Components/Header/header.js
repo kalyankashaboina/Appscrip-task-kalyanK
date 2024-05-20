@@ -32,10 +32,10 @@ function Header(){
 
 </div> */}
 <ul className="hello">
-    <li><a href="#">Home</a></li>
-    <li><a href="#">Skills</a></li>
-    <li><a href="#">Stories</a></li>
-    <li><a href="#">About</a></li>
+    <li><a href="#hom">Home</a></li>
+    <li><a href="#shi">Skills</a></li>
+    <li><a href="#sto">Stories</a></li>
+    <li><a href="#abocon">About</a></li>
     <li><a href="#">contact us</a></li>
 </ul>
 </nav>
