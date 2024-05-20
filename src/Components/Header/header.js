@@ -36,7 +36,7 @@ function Header(){
     <li><a href="#shi">Skills</a></li>
     <li><a href="#sto">Stories</a></li>
     <li><a href="#abocon">About</a></li>
-    <li><a href="#">contact us</a></li>
+    <li><a href="#hi">contact us</a></li>
 </ul>
 </nav>
 
