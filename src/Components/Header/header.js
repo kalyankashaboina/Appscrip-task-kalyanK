@@ -1,6 +1,6 @@
 import React from "react"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBars, faHeart, faUser , faSearch} from '@fortawesome/free-solid-svg-icons'; 
+import { faBars, faSearch} from '@fortawesome/free-solid-svg-icons'; 
 import { faHeart as faHeartRegular, faUser as faUserRegular } from '@fortawesome/free-regular-svg-icons';
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 
@@ -13,7 +13,7 @@ function Header(){
     <nav>
 <div className='UpperNav'>
 <FontAwesomeIcon icon={faBars} className="menu-icon" />
-<div ><img src={vector} alt="image" /></div>
+<div ><img src={vector} alt="vector" /></div>
 <h1>LOGO</h1>
 
 <div className="RightSide">
@@ -32,11 +32,11 @@ function Header(){
 
 </div> */}
 <ul className="hello">
-    <li><a>Home</a></li>
-    <li><a>Skills</a></li>
-    <li><a>Stories</a></li>
-    <li><a>About</a></li>
-    <li><a>contact us</a></li>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Skills</a></li>
+    <li><a href="#">Stories</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">contact us</a></li>
 </ul>
 </nav>
 

@@ -2,8 +2,8 @@ import React, { useEffect, useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./filter1.css";
 import axios from "axios";
-import { faBars, faHeart, faUser , faSearch} from '@fortawesome/free-solid-svg-icons';
-import { faHeart as faHeartRegular, faUser as faUserRegular } from '@fortawesome/free-regular-svg-icons';
+
+import { faHeart as faHeartRegular} from '@fortawesome/free-regular-svg-icons';
 
 
 
