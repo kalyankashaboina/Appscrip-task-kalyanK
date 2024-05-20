@@ -5,7 +5,7 @@ import Amex from "../../images/Amex.png"
 import Applepay from "../../images/Applepay.png"
 import insta from "../../images/Insta.png"
 import Star from "../../images/Star 1.png"
-import Vector from "../../images/Vector.png"
+
 import linkedin from "../../images/mdi_linkedin.png"
 import gpay from "../../images/gpay.png"
 import pay from "../../images/paY.png"
